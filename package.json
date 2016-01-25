@@ -1,0 +1,23 @@
+{
+  "name": "esdoc-var-plugin",
+  "version": "0.1.0",
+  "description": "ESDoc Plugin to add support for \"@var\" to document module variables",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbuecherl/esdoc-var-plugin.git"
+  },
+  "keywords": [
+    "esdoc",
+    "documentation"
+  ],
+  "author": "Bernhard Bücherl <bernhard.buecherl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbuecherl/esdoc-var-plugin/issues"
+  },
+  "homepage": "https://github.com/bbuecherl/esdoc-var-plugin#readme"
+}
